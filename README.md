@@ -1,3 +1,5 @@
+Tip: Use GitHub Desktop to clone the project, then initialize Git LFS. If UE prompts you to rebuild the project, please confirm. Do not directly download as .zip.
+
 # Vindolanda
 
 The Vindolanda digital project is developed with Unreal Engine 5 which aims to create an educational game that immerses players in the ancient Roman world for an engaging educational experience. The project emphasizes the dissemination of Roman culture, history, and knowledge through interactive gameplay.
